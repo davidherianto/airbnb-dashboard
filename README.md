@@ -38,7 +38,7 @@ There are 11 listings with a price value of $0. These records were considered in
 - Brooklyn remains a major Airbnb market with a substantial number of listings, closely competing with Manhattan. Despite its large market size, Brooklyn offers more affordable average prices, making it a cost-effective alternative for visitors.
 
 ## F. Dashboard
-<img width="1387" height="767" alt="projectimage01" src="https://github.com/user-attachments/assets/2fd0cf9d-6aad-4e97-a2b1-e8c5b78722ba" />
+![image alt](https://github.com/davidherianto/airbnb-dashboard/blob/4f9fccdf25275619d38b2b6f94ccad264f76f3a2/img/airbnb.png)
 
 ## G. Recommendation
 - Manhattan may be a promising market for short-term rental investments due to its strong listing demand and premium pricing potential. The area's popularity among tourists can further support revenue growth. To remain competitive, hosts should differentiate their properties by offering high-quality amenities and a superior guest experience, especially within the entire home/apartment segment.
